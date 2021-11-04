@@ -1,0 +1,35 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+h1{
+	margin: auto;
+}
+body{
+	font-family: Impact; 
+	background-color: Khaki;
+}
+p{
+	margin: auto;
+	width: 70%;
+	font-size: 40px;
+	color: blue;
+}
+	div{
+		color: Lime;
+		font-size: 100px;
+		padding: 10px;
+		margin: 20px;
+	}
+	a{
+		text-decoration: none;
+		margin: auto;
+		font-size:50px ;
+	}
+	img{
+		max-width: 30%;
+		height: auto;
+		display: block;
+		margin: auto;
+	}
